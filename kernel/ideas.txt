@@ -1,0 +1,8 @@
+yml classes
+===========
+
+All classes must have the following fields:
+
+ - Inherits
+ - Inherited by
+ - Tier
