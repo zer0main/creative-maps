@@ -9,6 +9,5 @@ Abstract classes must have the following fields:
 Nonabstract classes must have:
 
  - All fields of abstract classes
- - Tier
  - Visual image
  - Coordinates
