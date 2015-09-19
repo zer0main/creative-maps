@@ -10,4 +10,4 @@ Nonabstract classes must have:
 
  - All fields of abstract classes
  - Visual image
- - Coordinates
+ - Coordinates (range x, range y, range z)
